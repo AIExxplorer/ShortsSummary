@@ -16,7 +16,7 @@ Um dos principais objetivos do ShortsSummary é promover a inclusão de pessoas 
 
 ## Como Usar
 
-1. Acesse o aplicativo em [https://aiexxplorer.github.io/ShortsSummary/].
+1. Acesse o aplicativo em [**EM BREVE**].
 2. Cole o link do vídeo do YouTube Shorts que deseja resumir.
 3. Aguarde enquanto nossa IA cria um resumo do vídeo.
 4. Visualize o resumo gerado de forma rápida e conveniente.
