@@ -3,7 +3,7 @@
 O ShortsSummary é uma aplicação web que utiliza inteligência artificial para criar resumos de vídeos do YouTube Shorts de forma rápida e eficaz, com o objetivo de promover a inclusão do público PCD (Pessoas com Deficiência) na tecnologia.
 
 <div style="text-align: center;">
-<img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153478470593151056/Logo.png" alt="Logo">
+<img src="https://utfs.io/f/7b4221f9-df18-40c2-bfd8-cfe947f71d9d-84svba.png" alt="Logo">
 </div>
 
 ## Recursos Principais
@@ -28,33 +28,33 @@ Um dos principais objetivos do ShortsSummary é promover a inclusão de pessoas 
 1. Acessando o aplicativo:
 
    <div>
-     <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153479937144143902/image.png" alt="Introdução ao ShortsSummary">
+     <img src="https://utfs.io/f/a050416a-9c3c-4812-841e-38020870c1e6-b80074.png" alt="Introdução ao ShortsSummary">
    </div>
 
 2. Colando o link do vídeo do YouTube Shorts que deseja resumir:
 
 Copie o link do vídeo do YouTube Shorts que está na barra do navegador (LINK UTILIZADO APENAS COMO EXEMPLO, RECOMENDADO USAR O LINK DO VÍDEO QUE VOCÊ DESEJA): 
     <div>
-     <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153485476028747837/image.png" alt="Copiando o link do vídeo">
+     <img src="https://utfs.io/f/283f8f2d-3d15-4cca-88dc-621299d6a109-drhgjh.png" alt="Copiando o link do vídeo">
     </div>
 Após copiar o link, cole o link na barra de pesquisa do ShortsSummary e clique no botão " ► ":
     <div>
-     <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153485796255481916/image.png" alt="Solicitando o resumo">
+     <img src="https://utfs.io/f/e5b61af5-3669-4e2b-b718-5b08ad9d3777-b80073.png" alt="Solicitando o resumo">
     </div>
 
 3. Agora apenas aguarde enquanto a aplicação faz o restante do processo, você poderá notar mudanças abaixo do "Resumo":
 
     <div>
-     <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153483905303851009/image.png" alt="Obtendo o texto do áudio">
+     <img src="https://utfs.io/f/bd1ab8aa-16de-41d0-a101-ca33174b31a6-c5ybcw.png" alt="Obtendo o texto do áudio">
     </div>
     <div>
-     <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153484494079262841/image.png" alt="Realizando o resumo">
+     <img src="https://utfs.io/f/9cb5672f-1ada-45f7-b3d9-8c4f3f72bfc1-81vgnt.png" alt="Realizando o resumo">
     </div>
 
 4. Recebendo o resumo gerado de forma rápida e conveniente:
 
     <div>
-     <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153485699757125692/image.png" alt="Recebendo o resultado do resumo solicitado">
+     <img src="https://utfs.io/f/a9f99b60-ab3c-43aa-a64b-5207ceddb49f-b80072.png" alt="Recebendo o resultado do resumo solicitado">
     </div>
    
 ## Tecnologias Utilizadas
